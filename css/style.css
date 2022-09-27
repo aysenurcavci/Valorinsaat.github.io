@@ -212,7 +212,12 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/carousel-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(https://images.unsplash.com/photo-1536895058696-a69b1c7ba34f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80) center center no-repeat;
+    background-size: cover;
+}
+
+.main-header {
+    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(https://images.unsplash.com/photo-1506855868560-4ae177c39018?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1774&q=80) center center no-repeat;
     background-size: cover;
 }
 
@@ -252,15 +257,14 @@
 
 .service-icon {
     position: relative;
-    margin: -50px 0 25px 0;
-    width: 100px;
+    margin: -50px 0 0 0;
+    width: 220px;
     height: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
     color: var(--primary);
     background: #FFFFFF;
-    border-radius: 100px;
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
     transition: .5s;
 }
@@ -407,6 +411,43 @@
 }
 
 
+.logos {
+    width: 100%;
+    display: inline-block;
+    margin: 0px 0;
+}
+
+.slider {
+    animation: slidein 60s linear infinite;
+    white-space: nowrap;
+}
+
+.logos .fab {
+    width: calc(100% / 5);
+    animation: fade-in 0.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
+}
+
+
+@keyframes slidein {
+    from {
+        transform: translate3d(0, 0, 0);
+    }
+
+    to {
+        transform: translate3d(-100%, 0, 0);
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
 /*** Testimonial ***/
 .testimonial-carousel::before {
     position: absolute;
@@ -415,7 +456,6 @@
     left: 0;
     height: 100%;
     width: 0;
-    background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
     z-index: 1;
 }
 
@@ -426,7 +466,6 @@
     right: 0;
     height: 100%;
     width: 0;
-    background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
     z-index: 1;
 }
 
