@@ -104,10 +104,11 @@
     margin-right: 30px;
     padding: 25px 0;
     color:#C0C0C0;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 500;
     text-transform: uppercase;
     outline: none;
+    letter-spacing: 0.08ch;
 }
 
 .navbar .navbar-nav .nav-link:hover,
@@ -608,7 +609,7 @@
 }
 
 .footer .btn.btn-link:hover {
-    color: #FFFFFF;
+    color: var(--primary);
     letter-spacing: 1px;
     box-shadow: none;
 }
