@@ -26,6 +26,18 @@
 }
 
 
+.hcolor:hover{
+    color: #FCA311;
+    border-color: #FCA311;
+}
+
+@media (max-width: 992px) {
+    #map{
+        width: 100%;
+    }
+
+}
+
 /*** Spinner ***/
 #spinner {
     opacity: 0;
@@ -92,7 +104,7 @@
     margin-right: 30px;
     padding: 25px 0;
     color:#C0C0C0;
-    font-size: 15px;
+    font-size: 13px;
     font-weight: 500;
     text-transform: uppercase;
     outline: none;
@@ -212,7 +224,6 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(https://images.unsplash.com/photo-1536895058696-a69b1c7ba34f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80) center center no-repeat;
     background-size: cover;
 }
 
@@ -257,9 +268,11 @@
 
 .service-icon {
     position: relative;
-    margin: -50px 0 0 0;
-    width: 220px;
+    margin: auto;
+    margin-top: 10px;
+    width: 100px;
     height: 100px;
+    border-radius: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -267,6 +280,7 @@
     background: #FFFFFF;
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
     transition: .5s;
+    text-align: center;
 }
 
 .service-item:hover .service-icon {
@@ -302,8 +316,8 @@
 /*** Project Portfolio ***/
 #portfolio-flters li {
     display: inline-block;
-    font-weight: 500;
-    color: var(--dark);
+    font-weight: 300;
+    color:#C0C0C0;
     cursor: pointer;
     transition: .5s;
     border-bottom: 2px solid transparent;
@@ -580,7 +594,6 @@
     display: block;
     margin-bottom: 5px;
     padding: 0;
-    text-align: left;
     color: #9B9B9B;
     font-weight: normal;
     text-transform: capitalize;
@@ -588,7 +601,6 @@
 }
 
 .footer .btn.btn-link::before {
-    position: relative;
     content: "\f105";
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
@@ -604,6 +616,7 @@
 .footer .copyright {
     padding: 25px 0;
     border-top: 1px solid rgba(256, 256, 256, .1);
+    font-size: 15px;
 }
 
 .footer .copyright a {
