@@ -25,6 +25,18 @@
     z-index: 99;
 }
 
+.ref{
+    width: 100px;
+    height: auto;
+    filter: grayscale();
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.ref:hover{
+    filter: none;
+}
+
 
 .hcolor:hover{
     color: #FCA311;
@@ -429,7 +441,7 @@
 .logos {
     width: 100%;
     display: inline-block;
-    margin: 0px 0;
+    margin: 40px;
 }
 
 .slider {
