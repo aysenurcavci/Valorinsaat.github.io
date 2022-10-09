@@ -337,26 +337,36 @@
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
 }
 
+.contact-card{
+    text-align: center;
+    height: 100%;
+    background-color: #0f0f11;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
 .service-icon {
     position: relative;
     margin: auto;
     margin-top: 10px;
-    width: 100px;
-    height: 100px;
+    margin-bottom: 10px;
+    width: 80px;
+    height: 80px;
     border-radius: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
     color: var(--primary);
-    background: #FFFFFF;
+    background: #ffffff0d;
     box-shadow: 0 0 45px rgba(0, 0, 0, .08);
     transition: .5s;
     text-align: center;
 }
 
-.service-item:hover .service-icon {
-    color: #FFFFFF;
-    background: var(--primary);
+.service-icon:hover{
+    background-color: #FCA311;
+    color: #ffffff;
 }
 
 
