@@ -44,6 +44,26 @@
     
 }
 
+.activiti{
+    max-width: 70%;
+}
+
+@media (max-width: 992px) {
+    .activiti {
+            max-width: 80%;
+        }
+}
+
+.activitiCard {
+    padding-inline: 150px;
+}
+
+@media (max-width: 992px) {
+    .activitiCard {
+        padding-inline: 15px;
+    }
+}
+
 @media (min-width: 1200px) and (max-width: 1400px){ 
     .logos{
         margin-right:230px;
@@ -642,6 +662,11 @@
 
 
 /*** Footer ***/
+
+.footer a{
+    color: #9B9B9B;
+}
+
 .footer .btn.btn-social {
     margin-right: 5px;
     color: #9B9B9B;
