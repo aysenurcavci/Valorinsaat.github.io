@@ -79,7 +79,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top pb-3 ">
         <div class="container">
-            <a href="index.html" class="navbar-brand d-flex align-items-center px-2 px-lg-2">
+            <a href="index" class="navbar-brand d-flex align-items-center px-2 px-lg-2">
                 <img src="img/logo.png" width="240px">
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -87,21 +87,21 @@
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
                 <div class="navbar-nav p-4 mr-2 p-lg-0">
-                    <a href="index.html" class="nav-item nav-link">Anasayfa</a>
-                    <a href="hakkimizda.html" class="nav-item nav-link">Hakkımızda</a>
+                    <a href="index" class="nav-item nav-link">Anasayfa</a>
+                    <a href="hakkimizda" class="nav-item nav-link">Hakkımızda</a>
                     <!-- <a href="service.html" class="nav-item nav-link">Service</a> -->
                     <div class="nav-item dropdown">
-                        <a href="faaliyetler.html" class="nav-link dropdown-toggle"
+                        <a href="faaliyetler" class="nav-link dropdown-toggle"
                             data-bs-hover="dropdown">Faaliyetlerimiz</a>
                         <div class="dropdown-menu bg-dark m-0">
-                            <a href="alt_yapi_isleri.html" class="dropdown-item">Alt Yapı İşleri</a>
-                            <a href="ust_yapi_isleri.html" class="dropdown-item">Üst Yapı İşleri</a>
-                            <a href="mekanik_isler.html" class="dropdown-item">Mekanik İşler</a>
-                            <a href="elektrik_isleri.html" class="dropdown-item">Elektrik İşleri</a>
+                            <a href="alt_yapi_isleri" class="dropdown-item">Alt Yapı İşleri</a>
+                            <a href="ust_yapi_isleri" class="dropdown-item">Üst Yapı İşleri</a>
+                            <a href="mekanik_isler" class="dropdown-item">Mekanik İşler</a>
+                            <a href="elektrik_isleri" class="dropdown-item">Elektrik İşleri</a>
                         </div>
                     </div>
-                    <a href="projeler.html" class="nav-item nav-link active">Projeler</a>
-                    <a href="iletisim.html" class="nav-item nav-link">iletişim</a>
+                    <a href="projeler" class="nav-item nav-link active">Projeler</a>
+                    <a href="iletisim" class="nav-item nav-link">iletişim</a>
                 </div>
 
             </div>
@@ -109,57 +109,82 @@
     </nav>
     <!-- Navbar End -->
 
-
     <!-- Projects Start -->
     <div class="container-xxl py-5">
         <div class="container">
             <div class="mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 700px;">
-                <h3 class="text-center">Kocaeli Başiskele Belediyesi Hizmet Binası Yapım İşimiz</h3>
-
+                <h3 class="text-center">Balıkesir Bandırma Dış Cephe Yenileme İşimiz</h3>
             </div>
             <h4 class="text-primary ms-3"> Fotoğraflar</h4>
             <div class="row g-4 wow fadeInUp text-center" data-wow-delay="0.1s">
                 <div class="col-lg-4 col-md-6 portfolio-item first p-0">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project1/1.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/project3/1.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project1/1.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/1.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project1/2.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/project3/2.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project1/2.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/2.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item third p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project1/3.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/project3/3.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project1/3.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/3.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item four p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project1/4.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/project3/4.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project1/4.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/4.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item five p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project1/5.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/project3/5.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project1/5.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/5.jpg"
+                                data-lightbox="portfolio"><i class="fa fa-search"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item five p-0 pb-2">
+                    <div class="portfolio-img rounded overflow-hidden">
+                        <img class="img-fluid" style="width: 80%;" src="img/project3/6.jpg" alt="">
+                        <div class="portfolio-btn">
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/6.jpg"
+                                data-lightbox="portfolio"><i class="fa fa-search"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item five p-0 pb-2">
+                    <div class="portfolio-img rounded overflow-hidden">
+                        <img class="img-fluid" style="width: 80%;" src="img/project3/7.jpg" alt="">
+                        <div class="portfolio-btn">
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/7.jpg"
+                                data-lightbox="portfolio"><i class="fa fa-search"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item five p-0 pb-2">
+                    <div class="portfolio-img rounded overflow-hidden">
+                        <img class="img-fluid" style="width: 80%;" src="img/project3/8.jpg" alt="">
+                        <div class="portfolio-btn">
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/8.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
@@ -168,60 +193,6 @@
         </div>
     </div>
     <!-- Projects End -->
-
-    <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-body footer ">
-        <hr>
-        <div class="container py-3">
-            <div class="row">
-                <div class="col-lg-4 text-center py-5 py-lg-0">
-                    <img src="img/logo-y.png" width="220px">
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 py-5 py-sm-0" style="padding-left:100px;">
-                    <h5 class="text-white mb-4 ">İletişim</h5>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3 "></i>Bursa, Nifüfer</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i> <a href="tel:0 224 504 50 58"> 0 224 504 50
-                            58</a>
-                    </p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i><a
-                            href="mailto:info@valorinsaat.com">info@valorinsaat.com</a></p>
-                    <div class="d-flex pt-2 ">
-                        <a class="btn btn-square btn-outline-light btn-social"
-                            href="https://www.instagram.com/valorinsaat/?igshid=YmMyMTA2M2Y%3D"><i
-                                class="fab fa-instagram"></i></a>
-                        <a class="btn btn-square btn-outline-light btn-social"
-                            href="https://www.linkedin.com/company/valorinsaat/"><i class="fab fa-linkedin-in"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6" style="padding-left:100px;">
-                    <h5 class="text-white mb-4">Hızlı Menü</h5>
-                    <div>
-                        <a class="btn btn-link" href="hakkimizda.html">Hakkımızda</a>
-                        <a class="btn btn-link" href="faaliyetler.html">Faaliyetler</a>
-                        <a class="btn btn-link" href="projeler.html">Projeler</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="copyright">
-                <div class="row">
-                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a href="#">Valor İnşaat </a>, Tüm Hakları Saklıdır.
-                    </div>
-                    <div class="col-md-6 text-center text-md-end">
-                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        Designed By Ayşe Nur Çavcı
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Footer End -->
-
-    <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i
-            class="bi bi-arrow-up"></i></a>
 
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
@@ -239,3 +210,5 @@
 </body>
 
 </html>
+
+<?php require 'footer.php';?>

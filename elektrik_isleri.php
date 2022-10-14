@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Valor İnşaat</title>
+    <title>Valor İnşaat | Faaliyetler</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="keywords" content="Valor İnşaat, Ali Çetin, İnşaat, Mersin, Bursa">
     <meta content="" name="description">
@@ -79,7 +79,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top pb-3 ">
         <div class="container">
-            <a href="index.html" class="navbar-brand d-flex align-items-center px-2 px-lg-2">
+            <a href="index" class="navbar-brand d-flex align-items-center px-2 px-lg-2">
                 <img src="img/logo.png" width="240px">
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -87,96 +87,109 @@
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
                 <div class="navbar-nav p-4 mr-2 p-lg-0">
-                    <a href="index.html" class="nav-item nav-link active">Anasayfa</a>
-                    <a href="hakkimizda.html" class="nav-item nav-link">Hakkımızda</a>
+                    <a href="index" class="nav-item nav-link">Anasayfa</a>
+                    <a href="hakkimizda" class="nav-item nav-link">Hakkımızda</a>
                     <!-- <a href="service.html" class="nav-item nav-link">Service</a> -->
                     <div class="nav-item dropdown">
-                        <a href="faaliyetler.html" class="nav-link dropdown-toggle"
+                        <a href="faaliyetler" class="nav-link dropdown-toggle active"
                             data-bs-hover="dropdown">Faaliyetlerimiz</a>
                         <div class="dropdown-menu bg-dark m-0">
-                            <a href="alt_yapi_isleri.html" class="dropdown-item">Alt Yapı İşleri</a>
-                            <a href="ust_yapi_isleri.html" class="dropdown-item">Üst Yapı İşleri</a>
-                            <a href="mekanik_isler.html" class="dropdown-item">Mekanik İşler</a>
-                            <a href="elektrik_isleri.html" class="dropdown-item">Elektrik İşleri</a>
+                            <a href="alt_yapi_isleri" class="dropdown-item">Alt Yapı İşleri</a>
+                            <a href="ust_yapi_isleri" class="dropdown-item">Üst Yapı İşleri</a>
+                            <a href="mekanik_isler" class="dropdown-item">Mekanik İşler</a>
+                            <a href="elektrik_isleri" class="dropdown-item">Elektrik İşleri</a>
                         </div>
                     </div>
-                    <a href="projeler.html" class="nav-item nav-link">Projeler</a>
-                    <a href="iletisim.html" class="nav-item nav-link">iletişim</a>
+                    <a href="projeler" class="nav-item nav-link">Projeler</a>
+                    <a href="iletisim" class="nav-item nav-link">iletişim</a>
                 </div>
+
             </div>
         </div>
     </nav>
     <!-- Navbar End -->
 
-    <!-- 404 Start -->
-    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container text-center">
-            <div class="row justify-content-center">
-                <div class="col-lg-6">
-                    <i class="bi bi-exclamation-triangle display-1 text-primary"></i>
-                    <h1 class="display-1">404</h1>
-                    <h1 class="mb-4">Sayfa Bulunamadı</h1>
-                    <p class="mb-4">Üzgünüz, aradığınız sayfa sitemizde yok! Belki de bir problem yaşandı.</p>
-                    <a class="btn btn-primary rounded-pill py-3 px-5" href="index.html">Anasayfa'ya Dön</a>
-                </div>
-            </div>
-        </div>
+    <div class=" container text-center mx-auto mt-5 mb-3 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+        <h3 class="text-primary">Elektrik İsleri</h3>
     </div>
-    <!-- 404 End -->
 
-    <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-body footer ">
-        <hr>
-        <div class="container py-3">
-            <div class="row">
-                <div class="col-lg-4 text-center py-5 py-lg-0">
-                    <img src="img/logo-y.png" width="220px">
+    <!-- Content section -->
+    <section id="scroll">
+        <div class="container activitiCard">
+            <div class="row gx-5 align-items-center">
+                <div class="col-md-6 order-md-2 text-center">
+                    <div class="p-lg-5"><img class="img-fluid rounded-circle activiti" src="img/elektrik_isleri/1.jpg"
+                            alt="..." /></div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 py-5 py-sm-0" style="padding-left:100px;">
-                    <h5 class="text-white mb-4 ">İletişim</h5>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3 "></i>Bursa, Nifüfer</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i> <a href="tel:0 224 504 50 58"> 0 224 504 50
-                            58</a>
-                    </p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i><a
-                            href="mailto:info@valorinsaat.com">info@valorinsaat.com</a></p>
-                    <div class="d-flex pt-2 ">
-                        <a class="btn btn-square btn-outline-light btn-social"
-                            href="https://www.instagram.com/valorinsaat/?igshid=YmMyMTA2M2Y%3D"><i
-                                class="fab fa-instagram"></i></a>
-                        <a class="btn btn-square btn-outline-light btn-social"
-                            href="https://www.linkedin.com/company/valorinsaat/"><i class="fab fa-linkedin-in"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-6" style="padding-left:100px;">
-                    <h5 class="text-white mb-4">Hızlı Menü</h5>
-                    <div>
-                        <a class="btn btn-link" href="hakkimizda.html">Hakkımızda</a>
-                        <a class="btn btn-link" href="faaliyetler.html">Faaliyetler</a>
-                        <a class="btn btn-link" href="projeler.html">Projeler</a>
+                <div class="col-md-6 order-md-1">
+                    <div class="py-5">
+                        <h3 class="text-center">Topraklama Sistemleri</h3>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="container">
-            <div class="copyright">
-                <div class="row">
-                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a href="#">Valor İnşaat </a>, Tüm Hakları Saklıdır.
-                    </div>
-                    <div class="col-md-6 text-center text-md-end">
-                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        Designed By Ayşe Nur Çavcı
+    </section>
+    <section>
+        <div class="container activitiCard">
+            <div class="row gx-5 align-items-center">
+                <div class="col-md-6 text-center">
+                    <div class="p-lg-5"><img class="img-fluid rounded-circle activiti" src="img/elektrik_isleri/2.jpg"
+                            alt="..." /></div>
+                </div>
+                <div class="col-md-6">
+                    <div class="py-5">
+                        <h3 class="text-center">Kablo Sistemleri</h3>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Footer End -->
-
-    <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i
-            class="bi bi-arrow-up"></i></a>
+    </section>
+    <section id="scroll">
+        <div class="container activitiCard">
+            <div class="row gx-5 align-items-center">
+                <div class="col-md-6 order-md-2 text-center">
+                    <div class="p-lg-5"><img class="img-fluid rounded-circle activiti" src="img/elektrik_isleri/3.jpg"
+                            alt="..." /></div>
+                </div>
+                <div class="col-md-6 order-md-1">
+                    <div class="py-5">
+                        <h3 class="text-center">Galvaniz Kablo Taşıma Sistemleri</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container activitiCard">
+            <div class="row gx-5 align-items-center">
+                <div class="col-md-6 text-center">
+                    <div class="p-lg-5"><img class="img-fluid rounded-circle activiti" src="img/elektrik_isleri/4.jpg"
+                            alt="..." /></div>
+                </div>
+                <div class="col-md-6">
+                    <div class="py-5">
+                        <h3 class="text-center">Yangın Alarm Ve Algılama Sistemleri</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="scroll">
+        <div class="container activitiCard">
+            <div class="row gx-5 align-items-center">
+                <div class="col-md-6 order-md-2 text-center">
+                    <div class="p-lg-5"><img class="img-fluid rounded-circle activiti" src="img/elektrik_isleri/5.jpg"
+                            alt="..." /></div>
+                </div>
+                <div class="col-md-6 order-md-1">
+                    <div class="py-5">
+                        <h3 class="text-center">Aydınlatma Sistemleri</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Content section -->
 
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
@@ -194,3 +207,5 @@
 </body>
 
 </html>
+
+<?php require 'footer.php';?>

@@ -386,8 +386,13 @@
 }
 
 .service-icon:hover{
-    background-color: #FCA311;
-    color: #ffffff;
+    background-color: #FCA311 !important;
+    color: #ffffff !important; 
+}
+
+.service-icon a:hover{
+    background-color: #FCA311 !important;
+    color: #ffffff !important; 
 }
 
 
