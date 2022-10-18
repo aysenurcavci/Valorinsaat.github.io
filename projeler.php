@@ -81,7 +81,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top pb-3 ">
         <div class="container">
-            <a href="index" class="navbar-brand d-flex align-items-center px-2 px-lg-2">
+            <a href="/" class="navbar-brand d-flex align-items-center px-2 px-lg-2">
                 <img src="img/logo.png" width="240px">
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -89,7 +89,7 @@
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
                 <div class="navbar-nav p-4 mr-2 p-lg-0">
-                    <a href="index" class="nav-item nav-link">Anasayfa</a>
+                    <a href="/" class="nav-item nav-link">Anasayfa</a>
                     <a href="hakkimizda" class="nav-item nav-link">Hakkımızda</a>
                     <!-- <a href="service.html" class="nav-item nav-link">Service</a> -->
                     <div class="nav-item dropdown">
@@ -115,7 +115,7 @@
     <!-- Projects Start -->
     <div class="pb-5">
         <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;" >
                 <h3 class="text-primary">Projelerimiz</h3>
             </div>
             <div class="row mt-n2 wow fadeInUp" data-wow-delay="0.3s">
@@ -127,118 +127,124 @@
                     </ul>
                 </div>
             </div>
-            <div class="row g-4 portfolio-container"  style=" min-height: 500px;">
-                <div class="col-lg-4 col-md-6 portfolio-item second">
-                    <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/projects/basiskele.jpg" alt="">
-                        <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
-                                href="basiskele_belediyesi_hizmet_binasi"><i class="fa fa-eye"></i></a>
+            <div class="portfolio-container">
+                <div class="row" style="height:420px">
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/basiskele.jpg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="basiskele_belediyesi_hizmet_binasi"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Kocaeli Başiskele Belediyesi Hizmet Binası Yapım İşimiz</h5>
                         </div>
                     </div>
-                    <div class="pt-3">
-                        <h5 class="lh-base text-center">Kocaeli Başiskele Belediyesi Hizmet Binası Yapım İşimiz</h5>
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/orman_yolu.jpg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="orhaneli_orman_yolu"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Bursa Orhaneli Orman İşletme Müdürlüğü 10+990 Km B Tipi Orman
+                                Yolu Yapım İşimiz</h5>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/cam_balkon.jpg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="orhaneli_cam_balkon"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Bursa Orhaneli Orman İşletme Müdürlüğü Yangın Ekip Binası Teras
+                                Katı Cam Balkon Yapım İşimiz</h5>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second">
-                    <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/projects/orman_yolu.jpg" alt="">
-                        <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
-                                href="orhaneli_orman_yolu"><i class="fa fa-eye"></i></a>
+                <div class="row" style="height:420px">
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/orhaneli_orman.jpg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="orhaneli_orman_isletme"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Bursa Orhaneli Orman İşletme Müdürlüğü 6+770 Km B Tipi Orman
+                                Yolu Yapım İşimiz</h5>
                         </div>
                     </div>
-                    <div class="pt-3">
-                        <h5 class="lh-base text-center">Bursa Orhaneli Orman İşletme Müdürlüğü 10+990 Km B Tipi Orman
-                            Yolu Yapım İşimiz</h5>
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/bandirma.jpg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="bandirma_dis_cephe"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Balıkesir Bandırma Dış Cephe Yenileme İşimiz</h5>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/golpazari.jpg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="golpazari_kazan_dairesi"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Bilecik Gölpazarı Kazan Dairesi Yenileme İşimiz</h5>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second">
-                    <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/projects/cam_balkon.jpg" alt="">
-                        <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
-                                href="orhaneli_cam_balkon"><i class="fa fa-eye"></i></a>
+                <div class="row" style="height:420px">
+                    <div class="col-lg-4 col-md-6 portfolio-item first">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/konut_projesi.jpeg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="konut_projesi"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Konut Projesi</h5>
                         </div>
                     </div>
-                    <div class="pt-3">
-                        <h5 class="lh-base text-center">Bursa Orhaneli Orman İşletme Müdürlüğü Yangın Ekip Binası Teras
-                            Katı Cam Balkon Yapım İşimiz</h5>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second">
-                    <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/projects/orhaneli_orman.jpg" alt="">
-                        <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
-                                href="orhaneli_orman_isletme"><i class="fa fa-eye"></i></a>
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/gemlik_orman.jpg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="gemlik_orman_isletme"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Bursa Gemlik Orman İşletme Müdürlüğü 6+270 Km B Tipi
+                                Genişletilmiş Orman Yolu Yapım İşimiz</h5>
                         </div>
                     </div>
-                    <div class="pt-3">
-                        <h5 class="lh-base text-center">Bursa Orhaneli Orman İşletme Müdürlüğü 6+770 Km B Tipi Orman
-                            Yolu Yapım İşimiz</h5>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second">
-                    <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/projects/bandirma.jpg" alt="">
-                        <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
-                                href="bandirma_dis_cephe"><i class="fa fa-eye"></i></a>
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/yangin_ekip.jpeg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="orhaneli_yangin_ekip"><i class="fa fa-eye"></i></a>
+                            </div>
                         </div>
-                    </div>
-                    <div class="pt-3">
-                        <h5 class="lh-base text-center">Balıkesir Bandırma Dış Cephe Yenileme İşimiz</h5>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second">
-                    <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/projects/golpazari.jpg" alt="">
-                        <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
-                                href="golpazari_kazan_dairesi"><i class="fa fa-eye"></i></a>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Bursa Orhaneli Orman İşletme Müdürlüğü Yangın Ekip Binası
+                                Kompozit ve Tabela Yapım İşimiz</h5>
                         </div>
-                    </div>
-                    <div class="pt-3">
-                        <h5 class="lh-base text-center">Bilecik Gölpazarı Kazan Dairesi Yenileme İşimiz</h5>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item first">
-                    <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/projects/konut_projesi.jpeg" alt="">
-                        <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
-                                href="konut_projesi"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                    <div class="pt-3">
-                        <h5 class="lh-base text-center">Konut Projesi</h5>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second">
-                    <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/projects/gemlik_orman.jpg" alt="">
-                        <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
-                                href="gemlik_orman_isletme"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                    <div class="pt-3">
-                        <h5 class="lh-base text-center">Bursa Gemlik Orman İşletme Müdürlüğü 6+270 Km B Tipi
-                            Genişletilmiş Orman Yolu Yapım İşimiz</h5>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item second">
-                    <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/projects/yangin_ekip.jpeg" alt="">
-                        <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
-                                href="orhaneli_yangin_ekip"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                    <div class="pt-3">
-                        <h5 class="lh-base text-center">Bursa Orhaneli Orman İşletme Müdürlüğü Yangın Ekip Binası
-                            Kompozit ve Tabela Yapım İşimiz</h5>
                     </div>
                 </div>
             </div>

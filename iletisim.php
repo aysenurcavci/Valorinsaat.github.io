@@ -79,7 +79,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top pb-3 ">
         <div class="container">
-            <a href="index" class="navbar-brand d-flex align-items-center px-2 px-lg-2">
+            <a href="/" class="navbar-brand d-flex align-items-center px-2 px-lg-2">
                 <img src="img/logo.png" width="240px">
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -87,7 +87,7 @@
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
                 <div class="navbar-nav p-4 mr-2 p-lg-0">
-                    <a href="index" class="nav-item nav-link">Anasayfa</a>
+                    <a href="/" class="nav-item nav-link">Anasayfa</a>
                     <a href="hakkimizda" class="nav-item nav-link">Hakkımızda</a>
                     <!-- <a href="service.html" class="nav-item nav-link">Service</a> -->
                     <div class="nav-item dropdown">
@@ -155,7 +155,7 @@
                 <div class="col-lg-6 contact-text py-0 m-0 wow fadeIn" data-wow-delay="0.5s">
                     <div class="px-lg-5 pb-5 ps-lg-0">
                         <h4 class="text-primary mb-5 mt-3 ms-5">Bizimle İletişime Geçin;</h4>
-                        <form>
+                        <form  id="contactform" method="POST" action="https://formspree.io/f/mknevwey">
                             <div class="row g-3 ms-4">
                                 <div class="col-md-6">
                                     <div class="form-floating">
@@ -165,28 +165,29 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <input type="email" class="form-control" id="email" placeholder="Your Email">
+                                        <input type="email" name="email" class="form-control" id="email" placeholder="Your Email">
                                         <label for="email">Mailiniz</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" id="subject" placeholder="Subject">
+                                        <input type="text" name="subject" class="form-control" id="subject" placeholder="Subject">
                                         <label for="subject">Konu</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <textarea class="form-control" placeholder="Leave a message here" id="message"
+                                        <textarea name="message" class="form-control" placeholder="Leave a message here" id="message"
                                             style="height: 100px"></textarea>
                                         <label for="message">İçerik</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
-                                    <button class="btn btn-primary rounded-pill py-3 px-5 mt-3"
+                                    <button  id="sendMessage"  class="btn btn-primary rounded-pill py-3 px-5 mt-3"
                                         type="submit">Gönder</button>
                                 </div>
                             </div>
+                        <input type="hidden" name="_next" value="http://valorinsaat.com" />
                         </form>
                     </div>
                 </div>
@@ -217,6 +218,21 @@
     <script src="lib/lightbox/js/lightbox.min.js"></script>
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <script>
+    // var message = "";
+
+    // $("#sendMessage").on("click", function () {
+    //     message = $("#contactform").serialize();
+    //     $.ajax({
+    //         url: "https://formspree.io/f/mknevwey",
+    //         method: "POST",
+    //         data: { message: message },
+    //         dataType: "json"
+    //     });
+    //     alert('Mesaj İçin teşekkürler en kısa sürede dönüş sağlayacagız.');
+    //     return false;
+    // });
+    </script>
 
 </body>
 

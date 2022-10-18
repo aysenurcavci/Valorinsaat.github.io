@@ -87,7 +87,7 @@
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
                 <div class="navbar-nav p-4 mr-2 p-lg-0">
-                    <a href="index" class="nav-item nav-link active">Anasayfa</a>
+                    <a href="/" class="nav-item nav-link active">Anasayfa</a>
                     <a href="hakkimizda" class="nav-item nav-link">Hakkımızda</a>
                     <!-- <a href="service.html" class="nav-item nav-link">Service</a> -->
                     <div class="nav-item dropdown">

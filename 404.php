@@ -79,7 +79,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top pb-3 ">
         <div class="container">
-            <a href="index" class="navbar-brand d-flex align-items-center px-2 px-lg-2">
+            <a href="/" class="navbar-brand d-flex align-items-center px-2 px-lg-2">
                 <img src="img/logo.png" width="240px">
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -87,7 +87,7 @@
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
                 <div class="navbar-nav p-4 mr-2 p-lg-0">
-                    <a href="index" class="nav-item nav-link active">Anasayfa</a>
+                    <a href="/" class="nav-item nav-link active">Anasayfa</a>
                     <a href="hakkimizda" class="nav-item nav-link">Hakkımızda</a>
                     <!-- <a href="service.html" class="nav-item nav-link">Service</a> -->
                     <div class="nav-item dropdown">
@@ -117,7 +117,7 @@
                     <h1 class="display-1">404</h1>
                     <h1 class="mb-4">Sayfa Bulunamadı</h1>
                     <p class="mb-4">Üzgünüz, aradığınız sayfa sitemizde yok! Belki de bir problem yaşandı.</p>
-                    <a class="btn btn-primary rounded-pill py-3 px-5" href="index">Anasayfa'ya Dön</a>
+                    <a class="btn btn-primary rounded-pill py-3 px-5" href="/">Anasayfa'ya Dön</a>
                 </div>
             </div>
         </div>
