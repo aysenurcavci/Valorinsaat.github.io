@@ -119,72 +119,72 @@
             <div class="row g-4 wow fadeInUp text-center" data-wow-delay="0.1s">
                 <div class="col-lg-4 col-md-6 portfolio-item first p-0">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project3/1.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/bandirma_dis_cephe/1.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/1.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/bandirma_dis_cephe/1.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project3/2.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/bandirma_dis_cephe/2.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/2.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/bandirma_dis_cephe/2.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item third p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project3/3.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/bandirma_dis_cephe/3.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/3.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/bandirma_dis_cephe/3.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item four p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project3/4.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/bandirma_dis_cephe/4.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/4.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/bandirma_dis_cephe/4.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item five p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project3/5.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/bandirma_dis_cephe/5.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/5.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/bandirma_dis_cephe/5.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item five p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project3/6.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/bandirma_dis_cephe/6.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/6.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/bandirma_dis_cephe/6.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item five p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project3/7.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/bandirma_dis_cephe/7.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/7.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/bandirma_dis_cephe/7.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item five p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project3/8.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/bandirma_dis_cephe/8.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project3/8.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/bandirma_dis_cephe/8.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>

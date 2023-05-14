@@ -160,7 +160,7 @@
     </div>
     <!-- Service End -->
 
-    <div class="container" style="overflow: hidden; padding: 60px;">
+    <div class="container" style="overflow: hidden;">
         <div class="row align-items-center ">
             <div class="container rounded">
                 <h2 class="text-center" style="padding: 50px; color: #FCA311;">Referanslarımız</h2>
@@ -174,16 +174,8 @@
                         <img src="img/references/reference6.png" alt="" class="ref">
                         <img src="img/references/reference7.png" alt="" class="ref">
                         <img src="img/references/reference8.png" alt="" class="ref">
-                    </div>
-                    <div class="logo_r logos ">
-                        <img src="img/references/reference1.png" alt="" class="ref">
-                        <img src="img/references/reference2.png" alt="" class="ref">
-                        <img src="img/references/reference3.png" alt="" class="ref">
-                        <img src="img/references/reference4.png" alt="" class="ref">
-                        <img src="img/references/reference5.png" alt="" class="ref">
-                        <img src="img/references/reference6.png" alt="" class="ref">
-                        <img src="img/references/reference7.png" alt="" class="ref">
-                        <img src="img/references/reference8.png" alt="" class="ref">
+                        <img src="img/references/reference9.png" alt="" class="ref">
+                        <img src="img/references/reference10.png" alt="" class="ref">
                     </div>
                 </div>
             </div>

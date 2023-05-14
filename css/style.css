@@ -40,7 +40,7 @@
 .logos {
     width: 100%;
     display: inline-block;
-    margin: 50px;
+    margin: 50px 165px;
     
 }
 
@@ -72,7 +72,7 @@
 
 @media (min-width: 992px) and (max-width: 1200px) {
     .logos {
-        margin-right: 420px;
+        margin-right: 500px;
     }
 }
 

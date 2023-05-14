@@ -122,45 +122,45 @@
             <div class="row g-4 wow fadeInUp text-center" data-wow-delay="0.1s">
                 <div class="col-lg-4 col-md-6 portfolio-item first p-0">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project7/1.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/orhaneli_orman_yolu/1.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project7/1.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/orhaneli_orman_yolu/1.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project7/2.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/orhaneli_orman_yolu/2.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project7/2.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/orhaneli_orman_yolu/2.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item third p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project7/3.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/orhaneli_orman_yolu/3.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project7/3.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/orhaneli_orman_yolu/3.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item four p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project7/4.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/orhaneli_orman_yolu/4.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project7/4.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/orhaneli_orman_yolu/4.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item five p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project7/5.jpg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/orhaneli_orman_yolu/5.jpg" alt="">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/project7/5.jpg"
+                            <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="img/orhaneli_orman_yolu/5.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>

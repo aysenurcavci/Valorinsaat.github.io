@@ -131,16 +131,80 @@
                 <div class="row" style="height:420px">
                     <div class="col-lg-4 col-md-6 portfolio-item second">
                         <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/hektas_ayna_yapim.jpeg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="hektas_ayna_yapim"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Hektaş Ayna Yapım İşimiz</h5>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/demir_korkuluk.jpg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="demir_korkuluk"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Demir Korkuluk Yapım İşimiz</h5>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/kayapa_konut.jpg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="kayapa_konut"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Kayapa Özel Konut İstinat Duvarı Yapım İşimiz</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="row" style="height:420px">
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/oyak_pergola.jpg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="oyak_pergola"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Oyak İnşaat Pergola Yapım İşimiz</h5>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
+                            <img class="img-fluid" src="img/projects/yunuseli_konut.jpg" alt="" height="600px">
+                            <div class="portfolio-btn">
+                                <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
+                                    href="yunuseli_konut"><i class="fa fa-eye"></i></a>
+                            </div>
+                        </div>
+                        <div class="pt-3">
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Yunuseli Özel Konut Projesi Yapım İşimiz</h5>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item second">
+                        <div class="portfolio-img rounded overflow-hidden">
                             <img class="img-fluid" src="img/projects/basiskele.jpg" alt="" height="600px">
                             <div class="portfolio-btn">
                                 <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
-                                    href="basiskele_belediyesi_hizmet_binasi"><i class="fa fa-eye"></i></a>
+                                    href="basiskele_belediyesi"><i class="fa fa-eye"></i></a>
                             </div>
                         </div>
                         <div class="pt-3">
                             <h5 class="lh-base text-center pb-5 pb-md-3">Kocaeli Başiskele Belediyesi Hizmet Binası Yapım İşimiz</h5>
                         </div>
                     </div>
+                </div>
+                <div class="row" style="height:420px">
                     <div class="col-lg-4 col-md-6 portfolio-item second">
                         <div class="portfolio-img rounded overflow-hidden">
                             <img class="img-fluid" src="img/projects/orman_yolu.jpg" alt="" height="600px">
@@ -167,8 +231,6 @@
                                 Katı Cam Balkon Yapım İşimiz</h5>
                         </div>
                     </div>
-                </div>
-                <div class="row" style="height:420px">
                     <div class="col-lg-4 col-md-6 portfolio-item second">
                         <div class="portfolio-img rounded overflow-hidden">
                             <img class="img-fluid" src="img/projects/orhaneli_orman.jpg" alt="" height="600px">
@@ -182,6 +244,8 @@
                                 Yolu Yapım İşimiz</h5>
                         </div>
                     </div>
+                </div>
+                <div class="row" style="height:420px">
                     <div class="col-lg-4 col-md-6 portfolio-item second">
                         <div class="portfolio-img rounded overflow-hidden">
                             <img class="img-fluid" src="img/projects/bandirma.jpg" alt="" height="600px">
@@ -206,20 +270,20 @@
                             <h5 class="lh-base text-center pb-5 pb-md-3">Bilecik Gölpazarı Kazan Dairesi Yenileme İşimiz</h5>
                         </div>
                     </div>
-                </div>
-                <div class="row" style="height:420px">
                     <div class="col-lg-4 col-md-6 portfolio-item first">
                         <div class="portfolio-img rounded overflow-hidden">
-                            <img class="img-fluid" src="img/projects/konut_projesi.jpeg" alt="" height="600px">
+                            <img class="img-fluid" src="img/projects/gumustepe_villa.jpg" alt="" height="600px">
                             <div class="portfolio-btn">
                                 <a class="btn btn-lg-square btn-outline-primary rounded-circle mx-1"
-                                    href="konut_projesi"><i class="fa fa-eye"></i></a>
+                                    href="gumustepe_villa"><i class="fa fa-eye"></i></a>
                             </div>
                         </div>
                         <div class="pt-3">
-                            <h5 class="lh-base text-center pb-5 pb-md-3">Konut Projesi</h5>
+                            <h5 class="lh-base text-center pb-5 pb-md-3">Gümüştepe 3 Blok Villa Yapım İşmiz</h5>
                         </div>
                     </div>
+                </div>
+                <div class="row" style="height:420px">
                     <div class="col-lg-4 col-md-6 portfolio-item second">
                         <div class="portfolio-img rounded overflow-hidden">
                             <img class="img-fluid" src="img/projects/gemlik_orman.jpg" alt="" height="600px">

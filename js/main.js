@@ -81,6 +81,30 @@
         }
     });
 
+    $(document).ready(function () {
+        $('.carousel').carousel({
+            interval: 2000 // slayt geçiş süresi (ms)
+        });
+
+        var logos = $('.logo-container').find('img');
+        var logoCount = logos.length;
+        var currentLogoIndex = 0;
+
+        function slideLogos() {
+            $(logos[currentLogoIndex]).fadeOut(1000, function () {
+                currentLogoIndex++;
+                if (currentLogoIndex == logoCount) {
+                    currentLogoIndex = 0;
+                }
+                $(logos[currentLogoIndex]).fadeIn(1000, function () {
+                    setTimeout(slideLogos, 2000);
+                });
+            });
+        }
+
+        slideLogos();
+    });
+
 
     // Portfolio isotope and filter
     var portfolioIsotope = $('.portfolio-container').isotope({

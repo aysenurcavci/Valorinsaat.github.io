@@ -123,55 +123,55 @@
             <div class="row g-4 wow fadeInUp text-center" data-wow-delay="0.1s">
                 <div class="col-lg-4 col-md-6 portfolio-item first p-0">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project6/1.jpeg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/orhaneli_yangin_ekip/1.jpeg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1"
-                                href="img/project6/1.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
+                                href="img/orhaneli_yangin_ekip/1.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project6/2.jpeg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/orhaneli_yangin_ekip/2.jpeg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1"
-                                href="img/project6/2.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
+                                href="img/orhaneli_yangin_ekip/2.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item third p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project6/3.jpeg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/orhaneli_yangin_ekip/3.jpeg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1"
-                                href="img/project6/3.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
+                                href="img/orhaneli_yangin_ekip/3.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item four p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project6/4.jpeg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/orhaneli_yangin_ekip/4.jpeg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1"
-                                href="img/project6/4.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
+                                href="img/orhaneli_yangin_ekip/4.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item five p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project6/5.jpeg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/orhaneli_yangin_ekip/5.jpeg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1"
-                                href="img/project6/5.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
+                                href="img/orhaneli_yangin_ekip/5.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item five p-0 pb-2">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" style="width: 80%;" src="img/project6/6.jpeg" alt="">
+                        <img class="img-fluid" style="width: 80%;" src="img/orhaneli_yangin_ekip/6.jpeg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1"
-                                href="img/project6/6.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
+                                href="img/orhaneli_yangin_ekip/6.jpeg" data-lightbox="portfolio"><i class="fa fa-search"></i></a>
                         </div>
                     </div>
                 </div>
